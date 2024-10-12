@@ -2,7 +2,18 @@
 
 ## Crear un repositorio
 
-git config
-ghg
+```sh 
+git init
+```
 
-fgg
+# Ver el status de los archivos
+
+```sh 
+git status
+```
+
+## Git Alias
+
+```sh 
+git config --glñobal alias.st "status --short"
+
