@@ -19,4 +19,8 @@ git config --global alias.st "status --short"
 git config --global alias.a "add"
 ```
 
+# Ver las diferencias entre WD (Working directory/lo que tengo actual) y LR (Local repository/lo que esta guardado)
 
+```sh 
+git diff
+```
