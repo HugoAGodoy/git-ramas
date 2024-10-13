@@ -24,3 +24,9 @@ git config --global alias.a "add"
 ```sh 
 git diff
 ```
+
+## Ver el contenido de cada commit
+
+```sh 
+git show <numero-hash>
+```
