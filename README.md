@@ -15,5 +15,8 @@ git status
 ## Git Alias
 
 ```sh 
-git config --glñobal alias.st "status --short"
+git config --global alias.st "status --short"
+git config --global alias.a "add"
+```
+
 
