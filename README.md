@@ -43,5 +43,16 @@ git switch -c <nombre-rama> # crea una rama y nos mueve a la rama que se creó
 git switch <nombre-ramas>
 git switch feaure/ramas #ejemplo
 ```
+## Comparar entre los ultimos commits de las ramas
+```sh
+git diff <nombre-rama-que-quiero-comparar> #compara la rama actual y la rama que indico
+git diff dev #ejemplo. compara feaure/ramas con dev
+```
+
+## Ver las ramas locales y remotas
+
+```sh
+git branch -a # Me muestra las ramas locales y remotas"
+``` 
 
 
